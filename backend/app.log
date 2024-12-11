@@ -1,0 +1,364 @@
+2024-12-09 09:23:59,639 - INFO - Encryption service initialized successfully
+2024-12-09 09:24:00,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 09:24:00,654 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 09:24:00,674 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 09:24:01,282 - INFO - Encryption service initialized successfully
+2024-12-09 09:24:01,325 - WARNING -  * Debugger is active!
+2024-12-09 09:24:01,332 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 09:24:04,477 - INFO - 127.0.0.1 - - [09/Dec/2024 09:24:04] "[35m[1mOPTIONS /encrypt HTTP/1.1[0m" 204 -
+2024-12-09 09:24:04,807 - INFO - Encryption successful for Keshav Puram -> Botanical Garden
+2024-12-09 09:24:04,808 - INFO - 127.0.0.1 - - [09/Dec/2024 09:24:04] "POST /encrypt HTTP/1.1" 200 -
+2024-12-09 09:24:39,542 - INFO - 127.0.0.1 - - [09/Dec/2024 09:24:39] "[35m[1mOPTIONS /decrypt HTTP/1.1[0m" 204 -
+2024-12-09 09:24:39,744 - INFO - Decryption successful
+2024-12-09 09:24:39,745 - INFO - 127.0.0.1 - - [09/Dec/2024 09:24:39] "POST /decrypt HTTP/1.1" 200 -
+2024-12-09 09:24:39,746 - INFO - Decryption successful
+2024-12-09 09:24:39,747 - INFO - 127.0.0.1 - - [09/Dec/2024 09:24:39] "POST /decrypt HTTP/1.1" 200 -
+2024-12-09 09:35:48,437 - INFO - Retrieved 6 messages
+2024-12-09 09:35:48,438 - INFO - 127.0.0.1 - - [09/Dec/2024 09:35:48] "GET /messages HTTP/1.1" 200 -
+2024-12-09 09:35:48,699 - INFO - Retrieved 6 messages
+2024-12-09 09:35:48,701 - INFO - 127.0.0.1 - - [09/Dec/2024 09:35:48] "GET /messages HTTP/1.1" 200 -
+2024-12-09 09:36:22,797 - INFO - Retrieved 6 messages
+2024-12-09 09:36:22,798 - INFO - 127.0.0.1 - - [09/Dec/2024 09:36:22] "GET /messages HTTP/1.1" 200 -
+2024-12-09 09:36:23,106 - INFO - Retrieved 6 messages
+2024-12-09 09:36:23,108 - INFO - 127.0.0.1 - - [09/Dec/2024 09:36:23] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:06:01,916 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\key_manager.py', reloading
+2024-12-09 10:06:02,494 - INFO - Encryption service initialized successfully
+2024-12-09 10:06:03,402 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 10:06:03,404 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 10:06:03,424 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 10:06:04,016 - INFO - Encryption service initialized successfully
+2024-12-09 10:06:04,055 - WARNING -  * Debugger is active!
+2024-12-09 10:06:04,062 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 10:06:10,281 - INFO - Retrieved 6 messages
+2024-12-09 10:06:10,283 - INFO - 127.0.0.1 - - [09/Dec/2024 10:06:10] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:06:10,544 - INFO - Retrieved 6 messages
+2024-12-09 10:06:10,546 - INFO - 127.0.0.1 - - [09/Dec/2024 10:06:10] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:33:52,634 - INFO - 127.0.0.1 - - [09/Dec/2024 10:33:52] "[35m[1mOPTIONS /encrypt HTTP/1.1[0m" 204 -
+2024-12-09 10:33:53,058 - INFO - Encryption successful for Laxmi Nagar -> Mandi House
+2024-12-09 10:33:53,059 - INFO - 127.0.0.1 - - [09/Dec/2024 10:33:53] "POST /encrypt HTTP/1.1" 200 -
+2024-12-09 10:33:54,811 - INFO - Retrieved 7 messages
+2024-12-09 10:33:54,812 - INFO - 127.0.0.1 - - [09/Dec/2024 10:33:54] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:33:55,073 - INFO - Retrieved 7 messages
+2024-12-09 10:33:55,074 - INFO - 127.0.0.1 - - [09/Dec/2024 10:33:55] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:33:58,604 - INFO - Retrieved 7 messages
+2024-12-09 10:33:58,605 - INFO - 127.0.0.1 - - [09/Dec/2024 10:33:58] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:33:58,924 - INFO - Retrieved 7 messages
+2024-12-09 10:33:58,925 - INFO - 127.0.0.1 - - [09/Dec/2024 10:33:58] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:34:18,108 - INFO - 127.0.0.1 - - [09/Dec/2024 10:34:18] "[35m[1mOPTIONS /encrypt HTTP/1.1[0m" 204 -
+2024-12-09 10:34:18,397 - INFO - Encryption successful for Laxmi Nagar -> Mandi House
+2024-12-09 10:34:18,397 - INFO - 127.0.0.1 - - [09/Dec/2024 10:34:18] "POST /encrypt HTTP/1.1" 200 -
+2024-12-09 10:43:14,540 - INFO - 127.0.0.1 - - [09/Dec/2024 10:43:14] "[35m[1mOPTIONS /decrypt HTTP/1.1[0m" 204 -
+2024-12-09 10:43:14,808 - INFO - Decryption successful
+2024-12-09 10:43:14,809 - INFO - 127.0.0.1 - - [09/Dec/2024 10:43:14] "POST /decrypt HTTP/1.1" 200 -
+2024-12-09 10:43:14,811 - INFO - Decryption successful
+2024-12-09 10:43:14,813 - INFO - 127.0.0.1 - - [09/Dec/2024 10:43:14] "POST /decrypt HTTP/1.1" 200 -
+2024-12-09 10:43:18,387 - INFO - Retrieved 8 messages
+2024-12-09 10:43:18,389 - INFO - 127.0.0.1 - - [09/Dec/2024 10:43:18] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:43:18,640 - INFO - Retrieved 8 messages
+2024-12-09 10:43:18,643 - INFO - 127.0.0.1 - - [09/Dec/2024 10:43:18] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:43:25,367 - INFO - Retrieved 8 messages
+2024-12-09 10:43:25,370 - INFO - 127.0.0.1 - - [09/Dec/2024 10:43:25] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:43:25,705 - INFO - Retrieved 8 messages
+2024-12-09 10:43:25,709 - INFO - 127.0.0.1 - - [09/Dec/2024 10:43:25] "GET /messages HTTP/1.1" 200 -
+2024-12-09 10:48:14,232 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\crypto\\custom_crypto.py', reloading
+2024-12-09 10:48:14,301 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 10:48:14,840 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\sqlite3\\dbapi2.py', reloading
+2024-12-09 10:48:15,161 - INFO - Encryption service initialized successfully
+2024-12-09 10:48:16,132 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 10:48:16,133 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 10:48:16,154 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 10:48:16,796 - INFO - Encryption service initialized successfully
+2024-12-09 10:48:16,859 - WARNING -  * Debugger is active!
+2024-12-09 10:48:16,865 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:01:42,082 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:01:42,083 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:01:42,086 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:01:57,303 - INFO - Encryption service initialized successfully
+2024-12-09 11:02:04,519 - INFO - Encryption service initialized successfully
+2024-12-09 11:10:19,192 - INFO - Encryption service initialized successfully
+2024-12-09 11:42:41,959 - INFO - Encryption service initialized successfully
+2024-12-09 11:44:55,766 - INFO - Encryption service initialized successfully
+2024-12-09 11:46:18,116 - INFO - Encryption service initialized successfully
+2024-12-09 11:46:32,003 - INFO - Encryption service initialized successfully
+2024-12-09 11:48:27,583 - INFO - Encryption service initialized successfully
+2024-12-09 11:48:28,506 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 11:48:28,507 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 11:48:28,530 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:48:29,215 - INFO - Encryption service initialized successfully
+2024-12-09 11:48:29,283 - WARNING -  * Debugger is active!
+2024-12-09 11:48:29,292 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:51:29,263 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:51:29,265 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:51:29,267 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:51:29,268 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:51:29,829 - INFO - Encryption service initialized successfully
+2024-12-09 11:51:30,788 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 11:51:30,789 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 11:51:30,818 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:51:31,629 - INFO - Encryption service initialized successfully
+2024-12-09 11:51:31,692 - WARNING -  * Debugger is active!
+2024-12-09 11:51:31,701 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:51:46,919 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:51:46,924 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\crypto\\custom_crypto.py', reloading
+2024-12-09 11:51:47,522 - INFO - Encryption service initialized successfully
+2024-12-09 11:51:48,452 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 11:51:48,453 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 11:51:48,484 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:51:49,113 - INFO - Encryption service initialized successfully
+2024-12-09 11:51:49,162 - WARNING -  * Debugger is active!
+2024-12-09 11:51:49,169 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:56:23,999 - ERROR - Database error: no such table: encryption_logs
+2024-12-09 11:56:24,011 - INFO - 127.0.0.1 - - [09/Dec/2024 11:56:24] "[35m[1mGET /api/encryption-logs?filter=today HTTP/1.1[0m" 500 -
+2024-12-09 11:56:28,560 - ERROR - Database error: no such table: encryption_logs
+2024-12-09 11:56:28,561 - INFO - 127.0.0.1 - - [09/Dec/2024 11:56:28] "[35m[1mGET /api/encryption-logs?filter=lastSevenDays HTTP/1.1[0m" 500 -
+2024-12-09 11:56:28,612 - ERROR - Database error: no such table: encryption_logs
+2024-12-09 11:56:28,613 - INFO - 127.0.0.1 - - [09/Dec/2024 11:56:28] "[35m[1mGET /api/encryption-logs?filter=lastSevenDays HTTP/1.1[0m" 500 -
+2024-12-09 11:57:25,941 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\datetime.py', reloading
+2024-12-09 11:57:25,946 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\_pydatetime.py', reloading
+2024-12-09 11:57:26,091 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:57:26,886 - INFO - Encryption service initialized successfully
+2024-12-09 11:57:26,971 - WARNING -  * Debugger is active!
+2024-12-09 11:57:26,980 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:57:32,886 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:32,888 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:32,890 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:32,891 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:33,522 - INFO - Encryption service initialized successfully
+2024-12-09 11:57:34,428 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 11:57:34,429 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 11:57:34,450 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:57:35,193 - INFO - Encryption service initialized successfully
+2024-12-09 11:57:35,284 - WARNING -  * Debugger is active!
+2024-12-09 11:57:35,292 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:57:36,669 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:36,671 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:36,671 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:36,673 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\utils\\logger.py', reloading
+2024-12-09 11:57:37,247 - INFO - Encryption service initialized successfully
+2024-12-09 11:57:38,752 - INFO - Encryption service initialized successfully
+2024-12-09 11:57:39,701 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 11:57:39,702 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 11:57:39,727 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:57:40,346 - INFO - Encryption service initialized successfully
+2024-12-09 11:57:40,399 - WARNING -  * Debugger is active!
+2024-12-09 11:57:40,406 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:57:47,964 - INFO -  * Detected change in 'C:\\Users\\yashr\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask\\templating.py', reloading
+2024-12-09 11:57:47,967 - INFO -  * Detected change in 'C:\\Users\\yashr\\AppData\\Roaming\\Python\\Python312\\site-packages\\jinja2\\__init__.py', reloading
+2024-12-09 11:57:47,969 - INFO -  * Detected change in 'C:\\Users\\yashr\\AppData\\Roaming\\Python\\Python312\\site-packages\\jinja2\\environment.py', reloading
+2024-12-09 11:57:48,674 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:57:49,384 - INFO - Encryption service initialized successfully
+2024-12-09 11:57:49,485 - WARNING -  * Debugger is active!
+2024-12-09 11:57:49,494 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:58:00,694 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:58:00,742 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:58:00,743 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:58:01,395 - INFO - Encryption service initialized successfully
+2024-12-09 11:58:02,327 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 11:58:02,328 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 11:58:02,348 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 11:58:03,060 - INFO - Encryption service initialized successfully
+2024-12-09 11:58:03,114 - WARNING -  * Debugger is active!
+2024-12-09 11:58:03,120 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 11:58:08,278 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:58:08,280 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:58:08,281 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 11:58:08,282 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:11:52,545 - INFO - Encryption service initialized successfully
+2024-12-09 12:11:54,909 - INFO - Encryption service initialized successfully
+2024-12-09 12:11:58,840 - INFO - Encryption service initialized successfully
+2024-12-09 12:12:01,280 - INFO - Encryption service initialized successfully
+2024-12-09 12:12:02,362 - INFO - Encryption service initialized successfully
+2024-12-09 12:12:10,030 - INFO - Encryption service initialized successfully
+2024-12-09 12:12:12,770 - INFO - Encryption service initialized successfully
+2024-12-09 12:12:13,690 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:12:13,692 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:12:13,729 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:12:14,383 - INFO - Encryption service initialized successfully
+2024-12-09 12:12:14,450 - WARNING -  * Debugger is active!
+2024-12-09 12:12:14,456 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:25:29,083 - INFO - 127.0.0.1 - - [09/Dec/2024 12:25:29] "[35m[1mOPTIONS /encrypt HTTP/1.1[0m" 204 -
+2024-12-09 12:25:29,683 - INFO - Encryption successful for Noida Electronic City -> Mandi House
+2024-12-09 12:25:29,684 - INFO - 127.0.0.1 - - [09/Dec/2024 12:25:29] "POST /encrypt HTTP/1.1" 200 -
+2024-12-09 12:31:33,575 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\os.py', reloading
+2024-12-09 12:31:34,160 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:31:34,956 - INFO - Encryption service initialized successfully
+2024-12-09 12:31:35,020 - WARNING -  * Debugger is active!
+2024-12-09 12:31:35,026 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:37:27,128 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\logging\\__init__.py', reloading
+2024-12-09 12:37:28,257 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:37:28,887 - INFO - Encryption service initialized successfully
+2024-12-09 12:37:28,934 - WARNING -  * Debugger is active!
+2024-12-09 12:37:28,941 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:37:31,409 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:37:31,436 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:37:31,439 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:37:32,150 - INFO - Encryption service initialized successfully
+2024-12-09 12:39:04,498 - INFO - Encryption service initialized successfully
+2024-12-09 12:39:05,428 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:39:05,429 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:39:05,460 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:39:06,052 - INFO - Encryption service initialized successfully
+2024-12-09 12:39:06,096 - WARNING -  * Debugger is active!
+2024-12-09 12:39:06,104 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:39:11,863 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:39:11,864 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:39:11,865 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:39:11,866 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:39:15,665 - INFO - Encryption service initialized successfully
+2024-12-09 12:39:16,694 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:39:16,694 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:39:16,714 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:39:17,287 - INFO - Encryption service initialized successfully
+2024-12-09 12:39:17,336 - WARNING -  * Debugger is active!
+2024-12-09 12:39:17,342 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:48:46,483 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:48:46,485 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:48:46,486 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:48:46,487 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:49:03,016 - INFO - Encryption service initialized successfully
+2024-12-09 12:49:09,620 - INFO - Encryption service initialized successfully
+2024-12-09 12:49:11,026 - INFO - Encryption service initialized successfully
+2024-12-09 12:49:29,732 - INFO - Encryption service initialized successfully
+2024-12-09 12:49:31,037 - INFO - Encryption service initialized successfully
+2024-12-09 12:49:39,430 - INFO - Encryption service initialized successfully
+2024-12-09 12:49:49,847 - INFO - Encryption service initialized successfully
+2024-12-09 12:49:59,849 - INFO - Encryption service initialized successfully
+2024-12-09 12:50:00,774 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:50:00,775 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:50:00,795 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:50:01,394 - INFO - Encryption service initialized successfully
+2024-12-09 12:50:01,441 - WARNING -  * Debugger is active!
+2024-12-09 12:50:01,448 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:50:06,492 - INFO - 127.0.0.1 - - [09/Dec/2024 12:50:06] "[35m[1mOPTIONS /encrypt HTTP/1.1[0m" 204 -
+2024-12-09 12:50:07,308 - INFO - Encryption successful for Laxmi Nagar -> Kalkaji Mandir
+2024-12-09 12:50:07,310 - INFO - 127.0.0.1 - - [09/Dec/2024 12:50:07] "POST /encrypt HTTP/1.1" 200 -
+2024-12-09 12:51:38,843 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:51:38,845 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:51:38,846 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:51:38,847 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:51:57,251 - INFO - Encryption service initialized successfully
+2024-12-09 12:51:58,480 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:51:58,481 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:51:58,511 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:51:59,146 - INFO - Encryption service initialized successfully
+2024-12-09 12:51:59,183 - WARNING -  * Debugger is active!
+2024-12-09 12:51:59,188 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:51:59,435 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:51:59,436 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:51:59,437 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:51:59,438 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:52:08,236 - INFO - Encryption service initialized successfully
+2024-12-09 12:52:09,173 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:52:09,175 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:52:09,210 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:52:09,746 - INFO - Encryption service initialized successfully
+2024-12-09 12:52:09,796 - WARNING -  * Debugger is active!
+2024-12-09 12:52:09,801 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:52:19,616 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:52:19,617 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:52:20,013 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:52:20,796 - INFO - Encryption service initialized successfully
+2024-12-09 12:52:21,565 - INFO - Encryption service initialized successfully
+2024-12-09 12:52:22,492 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:52:22,494 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:52:22,512 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:52:23,066 - INFO - Encryption service initialized successfully
+2024-12-09 12:52:23,111 - WARNING -  * Debugger is active!
+2024-12-09 12:52:23,116 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:53:31,743 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:31,744 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:31,748 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:31,749 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:32,346 - INFO - Encryption service initialized successfully
+2024-12-09 12:53:33,260 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:53:33,261 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:53:33,279 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:53:34,211 - INFO - Encryption service initialized successfully
+2024-12-09 12:53:34,287 - WARNING -  * Debugger is active!
+2024-12-09 12:53:34,296 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:53:34,821 - INFO - Encryption service initialized successfully
+2024-12-09 12:53:35,734 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:53:35,734 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:53:35,756 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:53:36,438 - INFO - Encryption service initialized successfully
+2024-12-09 12:53:36,490 - WARNING -  * Debugger is active!
+2024-12-09 12:53:36,497 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:53:37,136 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:37,136 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:37,137 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:37,137 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:37,138 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:37,139 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:37,139 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:37,708 - INFO - Encryption service initialized successfully
+2024-12-09 12:53:38,636 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.44:3000
+2024-12-09 12:53:38,637 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-09 12:53:38,662 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-09 12:53:39,257 - INFO - Encryption service initialized successfully
+2024-12-09 12:53:39,304 - WARNING -  * Debugger is active!
+2024-12-09 12:53:39,309 - INFO -  * Debugger PIN: 489-283-914
+2024-12-09 12:53:42,900 - INFO - 127.0.0.1 - - [09/Dec/2024 12:53:42] "[35m[1mOPTIONS /encrypt HTTP/1.1[0m" 204 -
+2024-12-09 12:53:43,756 - INFO - Encryption successful for Laxmi Nagar -> Kalkaji Mandir
+2024-12-09 12:53:43,757 - INFO - 127.0.0.1 - - [09/Dec/2024 12:53:43] "POST /encrypt HTTP/1.1" 200 -
+2024-12-09 12:53:45,427 - INFO - Encryption successful for Laxmi Nagar -> Kalkaji Mandir
+2024-12-09 12:53:45,429 - INFO - 127.0.0.1 - - [09/Dec/2024 12:53:45] "POST /encrypt HTTP/1.1" 200 -
+2024-12-09 12:53:55,567 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:55,569 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
+2024-12-09 12:53:55,570 - INFO -  * Detected change in 'D:\\SIH-Finals\\backend\\app.py', reloading
